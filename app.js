@@ -1,0 +1,1 @@
+let commands = ["config", "init", "add", "commit", "pull", "push", "reset", "rm", "branch", "checkout"];
