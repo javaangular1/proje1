@@ -1,1 +1,2 @@
-let commands = ["config", "init", "add", "commit", "pull", "push", "reset", "rm", "branch", "checkout"];
+let commands = ["config", "init", "add", "commit", "pull", "push", "reset", "rm"];
+let branchCommands = ["branch", "checkout"]
