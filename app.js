@@ -9,3 +9,8 @@ let login = {
     Logout
 }
 
+function del(file) {
+    delete file;
+    return;
+}
+
